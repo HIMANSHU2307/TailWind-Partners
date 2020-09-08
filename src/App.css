@@ -1,0 +1,153 @@
+.titleLogo {
+  font-family: 'Poppins';
+  letter-spacing: 0.5em;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.dot {
+  position: relative;
+  bottom: 7px;
+}
+
+header .titleLogo {
+  font-size: 43px;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.intro {
+  margin: 10px;
+  float: left;
+  font-size: 23px;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  color: rgb(87, 87, 87);
+}
+
+.intro1 {
+  margin: 10px;
+  float: left;
+  font-size: 23px;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  text-align: center;
+}
+
+.fas {
+  font-size: 32px;
+  position: absolute;
+  bottom: 15px;
+  color: black;
+  transition: color 0.4s;
+  cursor: pointer;
+}
+
+.fas:hover {
+  color: gray;
+}
+
+.section {
+  padding: 100px 50px 100px 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.section .heading {
+  text-align: center;
+  font-size: 52px;
+  flex: 3;
+}
+
+.section .description {
+  font-size: 20px;
+  flex: 4;
+}
+
+.description > p {
+  text-align: justify;
+}
+
+.quote {
+  width: 75%;
+  font-size: 43px;
+  color:white;
+}
+
+.quote-section {
+  background-color: rgb(87, 87, 87);
+}
+
+input, textarea {
+  width: 80%;
+  height: 40px;
+  font-size: 20px;
+  border: 2px solid black;
+  margin: 10px 0px 20px 0px;
+  padding: 5px;
+  background-color: #fffff0;
+}
+
+textarea {
+  height: 150px;
+}
+
+button {
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  width:25%;
+  height: 40px;
+  cursor: pointer;
+  transition: all 0.3s;
+  border: 0px;
+}
+
+button:active {
+  background-color: white;
+  color: black;
+}
+
+.footer {
+  padding: 40px;
+  background-color: rgb(87, 87, 87);
+  color: white;
+}
+
+.social-box {
+  display: flex;
+  align-items: center;
+}
+
+.social-box > a > img {
+  width: 30px;
+  cursor: pointer;
+}
+
+.social-box > a:nth-child(2) {
+  margin: 20px
+}
+
+.contact-box {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+@media (max-width:767px){
+  .section {
+    flex-direction: column;
+  }
+
+  .contact-box {
+    flex-direction: column;
+  }
+}
+

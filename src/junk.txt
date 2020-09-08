@@ -1,0 +1,69 @@
+{
+          /*
+          <div className="section">
+          <div className="heading">
+            <span>what we do</span>
+          </div>
+          <div className="description">
+            <span>we are a bridge between passionate founders with great businesses and the investors that wish to fund them. our two sided network connects companies in the cannabis space looking for Seed to Series A with capital sources that comprise a mix of HNW individuals, angel collectives, family offices, VCs, and cannabis focused investment banks.</span>
+            <br/>
+            <span><strong>for our founders</strong>, our advisory services center around understanding their needs and curating the proper network of investors that we believe will be best aligned with them both strategically and culturally.</span>
+            <br/>
+            <span><strong>for our investors</strong>, we develop a deep understanding of what deals are most appropriate and appealing for them to ensure that each opportunity is worth their consideration for investment and partnership. </span>
+          </div>
+        </div>
+        <div className="section">
+          <div className="heading">
+            <span>why we exist</span>
+          </div>
+          <div className="description">
+            <span>our team discovered that too many great businesses in the cannabis industry weren’t meeting their potential due to a lack of access to capital and subject matter expertise. </span>
+            <br />
+            <span>believing in the future of the industry as strongly as we do, we knew a need in the marketplace had to be fulfilled. Our Venture was born out of clear vision and determination to leave no great business behind.</span>
+            <br />
+            <span>at the same time, our investor network was on the hunt for great opportunities but needed an extra set of eyes to source and vet the most credible and promising deals. We knew that acting as a conduit between founders and investors was a perfect match, and there is nothing in the world that we would rather do.</span>
+          </div>
+        </div> 
+        
+        <div className="section">
+          <div className="heading">
+            <span>why should you work with us</span>
+          </div>
+          <div className="description">
+            <span>We take pride in our business and our vision and actively seek to work only with founders and investors of the highest caliber. In a world as small as the cannabis industry, our reputation is our most important asset.</span>
+            <br />
+            <span>We will never strive to place an investor with a founder that we believe is a poor fit, nor will we bring founders to our investor network that we do not truly believe in.</span>
+            <br />
+            <span>We understand that the decision to accept outside capital, as well as the decision to invest in a company, are not to be taken lightly. Our utmost priority is to provide unbiased and strategic support for the long term to ensure that these partnerships will succeed for many years to come.</span>
+          </div>
+        </div>
+        <div className="section">
+          <div className="heading">
+            <span>our founders</span>
+          </div>
+          <div className="description">
+            <span>The companies we represent all have a core focus on the aspects of cannabis, but their specific sectors vary.</span>
+            <br />
+            <span>we believe this gives us a pulse on the three key aspects of cannabis consumer trends, emerging technology and regulatory initiatives that affect all of our founders and investors. However, working within an industry that is rapidly changing and expanding nationwide, you will always see us at all major industry conferences and events across the country.</span>
+          </div>
+        </div>
+          */
+        }
+        
+        {/*<div className="section">
+          <div className="heading">
+            <span>get in touch</span>
+          </div>
+          <div className="description">
+            <label for="fullName">name</label><br/>
+            <input type="text" name="fullName" placeholder="full name" onChange={(e) => handleChange(e)}/>
+            <br/>
+            <label for="email">email</label><br />
+            <input type="email" name="email" placeholder="email@mail.com" />
+            <br />
+            <label for="message">message</label><br />
+            <textarea type="text" name="message" placeholder="message"></textarea>
+            <br />
+            <button>Send</button>
+          </div>
+        </div>*/}
