@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TailWind-Partners/static/css/main.85517aea.chunk.css",
+    "main.js": "/TailWind-Partners/static/js/main.7ee2d52e.chunk.js",
+    "main.js.map": "/TailWind-Partners/static/js/main.7ee2d52e.chunk.js.map",
+    "runtime-main.js": "/TailWind-Partners/static/js/runtime-main.a4640bc4.js",
+    "runtime-main.js.map": "/TailWind-Partners/static/js/runtime-main.a4640bc4.js.map",
+    "static/js/2.8073dfad.chunk.js": "/TailWind-Partners/static/js/2.8073dfad.chunk.js",
+    "static/js/2.8073dfad.chunk.js.map": "/TailWind-Partners/static/js/2.8073dfad.chunk.js.map",
+    "index.html": "/TailWind-Partners/index.html",
+    "precache-manifest.d6641dc2b999d6f17410d2cbdf6383f7.js": "/TailWind-Partners/precache-manifest.d6641dc2b999d6f17410d2cbdf6383f7.js",
+    "service-worker.js": "/TailWind-Partners/service-worker.js",
+    "static/css/main.85517aea.chunk.css.map": "/TailWind-Partners/static/css/main.85517aea.chunk.css.map",
+    "static/js/2.8073dfad.chunk.js.LICENSE.txt": "/TailWind-Partners/static/js/2.8073dfad.chunk.js.LICENSE.txt",
+    "static/media/facebook.svg": "/TailWind-Partners/static/media/facebook.422e7665.svg",
+    "static/media/instagram.svg": "/TailWind-Partners/static/media/instagram.59b0c8cb.svg",
+    "static/media/linkedin.svg": "/TailWind-Partners/static/media/linkedin.89dcd695.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4640bc4.js",
+    "static/js/2.8073dfad.chunk.js",
+    "static/css/main.85517aea.chunk.css",
+    "static/js/main.7ee2d52e.chunk.js"
+  ]
+}
