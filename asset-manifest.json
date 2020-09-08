@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TailWind-Partners/static/css/main.85517aea.chunk.css",
-    "main.js": "/TailWind-Partners/static/js/main.7ee2d52e.chunk.js",
-    "main.js.map": "/TailWind-Partners/static/js/main.7ee2d52e.chunk.js.map",
+    "main.js": "/TailWind-Partners/static/js/main.aee9156c.chunk.js",
+    "main.js.map": "/TailWind-Partners/static/js/main.aee9156c.chunk.js.map",
     "runtime-main.js": "/TailWind-Partners/static/js/runtime-main.a4640bc4.js",
     "runtime-main.js.map": "/TailWind-Partners/static/js/runtime-main.a4640bc4.js.map",
     "static/js/2.8073dfad.chunk.js": "/TailWind-Partners/static/js/2.8073dfad.chunk.js",
     "static/js/2.8073dfad.chunk.js.map": "/TailWind-Partners/static/js/2.8073dfad.chunk.js.map",
     "index.html": "/TailWind-Partners/index.html",
-    "precache-manifest.d6641dc2b999d6f17410d2cbdf6383f7.js": "/TailWind-Partners/precache-manifest.d6641dc2b999d6f17410d2cbdf6383f7.js",
+    "precache-manifest.85814efa830a0ff8ebec5ae927dec6d4.js": "/TailWind-Partners/precache-manifest.85814efa830a0ff8ebec5ae927dec6d4.js",
     "service-worker.js": "/TailWind-Partners/service-worker.js",
     "static/css/main.85517aea.chunk.css.map": "/TailWind-Partners/static/css/main.85517aea.chunk.css.map",
     "static/js/2.8073dfad.chunk.js.LICENSE.txt": "/TailWind-Partners/static/js/2.8073dfad.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.a4640bc4.js",
     "static/js/2.8073dfad.chunk.js",
     "static/css/main.85517aea.chunk.css",
-    "static/js/main.7ee2d52e.chunk.js"
+    "static/js/main.aee9156c.chunk.js"
   ]
 }
